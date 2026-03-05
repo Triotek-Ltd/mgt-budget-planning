@@ -1,0 +1,42 @@
+[
+  {
+    "module_code": "mgt5_2",
+    "module_label": "MGT 5.2 - Budget Allocation",
+    "module_title": "Budget Allocation",
+    "module_slug": "budget_allocation",
+    "app_code": "mgt5",
+    "app_label": "MGT 5 - Budget Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt5_3",
+    "module_label": "MGT 5.3 - Budget Approval",
+    "module_title": "Budget Approval",
+    "module_slug": "budget_approval",
+    "app_code": "mgt5",
+    "app_label": "MGT 5 - Budget Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt5_1",
+    "module_label": "MGT 5.1 - Budget Preparation",
+    "module_title": "Budget Preparation",
+    "module_slug": "budget_preparation",
+    "app_code": "mgt5",
+    "app_label": "MGT 5 - Budget Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt5_4",
+    "module_label": "MGT 5.4 - Budget Revision",
+    "module_title": "Budget Revision",
+    "module_slug": "budget_revision",
+    "app_code": "mgt5",
+    "app_label": "MGT 5 - Budget Planning",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  }
+]
